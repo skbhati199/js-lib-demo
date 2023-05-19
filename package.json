@@ -5,7 +5,7 @@
   "author": "skbhati199",
   "module": "lib/es6/index.js",
   "main": "lib/es5/index.js",
-  "repository": "https://www.github.com/skabhti199/js-lib-demo.git",
+  "repository": "https://www.github.com/skbhati199/js-lib-demo.git",
   "sideEffects":false,
   "files": [
     "lib",
