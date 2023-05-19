@@ -36,7 +36,7 @@ Pluck(["name":"value"], "name")
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or have a feature request, please open an issue on the [GitHub repository](https://github.com/skbhati199/js-lib). If you want to contribute directly, you can fork the repository, make your changes, and submit a pull request.
+Contributions are welcome! If you find a bug or have a feature request, please open an issue on the [GitHub repository](https://github.com/skbhati199/js-lib-demo). If you want to contribute directly, you can fork the repository, make your changes, and submit a pull request.
 
 Please make sure to follow the existing coding style and include appropriate tests with your contributions.
 
