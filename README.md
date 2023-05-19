@@ -1,27 +1,27 @@
-# @skbhati199/js-lib
+# skbhati199-js-lib-demo
 
-`@skbhati199/js-lib` is a TypeScript package that provides a collection of utility functions and classes for JavaScript development. It aims to simplify common tasks and enhance productivity for developers.
+`skbhati199-js-lib-demo` is a TypeScript package that provides a collection of utility functions and classes for JavaScript development. It aims to simplify common tasks and enhance productivity for developers.
 
 ## Installation
 
 You can install the package using npm or yarn:
 
 ```shell
-npm install @skbhati199/js-lib
+npm install skbhati199-js-lib-demo
 ```
 
 or
 
 ```shell
-yarn add @skbhati199/js-lib
+yarn add skbhati199-js-lib-demo
 ```
 
 ## Usage
 
-Once installed, you can import and use the functions and classes from `@skbhati199/js-lib` in your TypeScript or JavaScript project.
+Once installed, you can import and use the functions and classes from `skbhati199-js-lib-demo` in your TypeScript or JavaScript project.
 
 ```javascript
-import { Pluck } from '@skbhati199/js-lib';
+import { Pluck } from 'skbhati199-js-lib-demo';
 
 // Using Pluck js-lib Utils
 Pluck(["name":"value"], "name")

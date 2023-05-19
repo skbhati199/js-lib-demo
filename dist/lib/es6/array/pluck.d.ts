@@ -1,1 +1,1 @@
-export declare const pluck: (elements: any, field: any) => any;
+export declare const Pluck: (elements: any, field: any) => any;
