@@ -23,7 +23,7 @@ Once installed, you can import and use the functions and classes from `@skbhati1
 ```javascript
 import { Pluck } from '@skbhati199/js-lib';
 
-// Using StringUtil
+// Using Pluck js-lib Utils
 Pluck(["name":"value"], "name")
 ```
 
