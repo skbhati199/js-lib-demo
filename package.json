@@ -1,6 +1,7 @@
 {
   "name": "@skbhati199/js-lib",
   "version": "0.0.1",
+  "private":false,
   "description": "A set of JavaScript Utils",
   "author": "skbhati199",
   "module": "lib/es6/index.js",
