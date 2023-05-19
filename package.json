@@ -1,0 +1,30 @@
+{
+  "name": "@skbhati199/js-lib",
+  "version": "0.0.1",
+  "description": "A set of JavaScript Utils",
+  "author": "skbhati199",
+  "module": "lib/es6/index.js",
+  "main": "lib/es5/index.js",
+  "repository": "https://www.github.com/skabhti199/js-lib-demo.git",
+  "sideEffects":false,
+  "files": [
+    "lib",
+    "CHANGELOGS.md",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "scripts": {
+    "compile": "rm -rf dist && tsc && tsc --build tsconfig.es5.json"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "utils",
+    "utilities"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
