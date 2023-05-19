@@ -1,0 +1,28 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "module": "dist/index.js",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "tsc": "npx tsc",
+    "prepare": "rm -rf dist && tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "skbhati199-js-lib-demo": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^4.3.1",
+    "jasmine-core": "^5.0.0",
+    "karma": "^6.4.2",
+    "karma-chrome-launcher": "^3.2.0",
+    "karma-jasmine": "^5.1.0",
+    "karma-webpack": "^5.0.0",
+    "ts-loader": "^9.4.2",
+    "typescript": "^5.0.4"
+  }
+}
